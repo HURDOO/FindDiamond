@@ -1,0 +1,8 @@
+  name: findDiamond
+  main: kr.kro.hurdoo.finddiamond.Main
+  version: 1.0
+
+  commands:
+    diamond:
+      description: find diamond
+      usage: /diamond
